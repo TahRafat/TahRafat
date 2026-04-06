@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @TahRafat
-- 👀 I’m interested in C++ and Python
-- 🌱 I’m currently learning Python, AI, Data Science 
-- 💞️ I’m looking to collaborate on Python, AI, and Data Science projects 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Tahmina 👋
 
-<!---
-TahRafat/TahRafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Engineering Student (AI/ML Focus)  
+🤖 MLOps Intern @ Virufy  
+📊 Working on AI for healthcare and anomaly detection systems  
+
+---
+
+## 🔬 Interests
+- Machine Learning & Deep Learning
+- Audio AI (Cough Detection, Quality Analysis)
+- MLOps & Scalable Systems
+- AI for Healthcare
+
+---
+
+## 🚀 Featured Projects
+
+### 🎧 Audio Classification using AST
+Transformer-based model for cough and breathing classification  
+→ Accuracy: 97%+  
+
+### ✈️ ADS-B Spoofing Detection
+Anomaly detection using LSTM Autoencoder + Isolation Forest  
+
+### 🎙️ Audio Quality Assessment (SQUIM)
+Speech quality evaluation for improving AI data pipelines  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/tahmina-rafat  
+- Email: tah.minaraf@gmail.com  
